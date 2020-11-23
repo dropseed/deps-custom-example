@@ -30,7 +30,7 @@ def collect(input_path, output_path):
 
         current_dependencies[name] = {
             "constraint": installed_version,
-            "source": "manual",
+            "source": "custom",
         }
 
         latest_version = get_latest_version(name)
