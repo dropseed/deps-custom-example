@@ -31,7 +31,7 @@ dependencies:
   path: example.yml
 ```
 
-Or by forking this repo and referencing it remotely (best if you're going to use it on multiple projects):
+Or by [copying this repo template](https://github.com/dropseed/deps-custom-example/generate) and referencing it remotely (best if you're going to use it on multiple projects):
 
 ```yaml
 # deps.yml
