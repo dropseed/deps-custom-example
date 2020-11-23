@@ -1,4 +1,4 @@
-# deps-custom-example
+# deps-custom-example ![test](https://github.com/dropseed/deps-custom-example/workflows/test/badge.svg)
 
 You can build custom deps components to automatically manage updates for custom dependency types.
 
