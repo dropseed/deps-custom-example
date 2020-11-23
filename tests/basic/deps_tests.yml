@@ -1,0 +1,7 @@
+tests:
+- name: basic
+  repo: repo_original
+  diff: repo_updated
+  data: dependencies.json
+  user_config:
+    path: custom-deps.yml

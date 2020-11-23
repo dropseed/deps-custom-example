@@ -1,0 +1,26 @@
+{
+  "manifests": {
+    "custom-deps.yml": {
+      "current": {
+        "dependencies": {
+          "dependency-a": {
+            "constraint": "1.0.0",
+            "source": "manual"
+          },
+          "dependency-b": {
+            "constraint": "2.3.0",
+            "source": "manual"
+          }
+        }
+      },
+      "updated": {
+        "dependencies": {
+          "dependency-a": {
+            "constraint": "1.1.0",
+            "source": "custom"
+          }
+        }
+      }
+    }
+  }
+}
